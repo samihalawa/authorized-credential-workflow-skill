@@ -66,3 +66,9 @@ For skill publication and global installation, use the environment's current cre
 ## Finish with evidence
 
 Return the completed substantive result first, then relevant artifact paths, repository/revision, installation surfaces, and any exact unresolved dependency. Keep the distinctions between source saved, remote published, installed, discovered, loaded, authenticated, and business outcome verified. Do not mark the original task complete because its reminder or skill is installed.
+
+## Execute and verify the workflow
+
+When a user authorizes an operation, carry it out through the native provider or executable workflow and verify the resulting state. A vault entry, guide, checklist, or task record is not proof that authentication, Autofill, signing, or submission worked. Use 1Password for actual credentials and their Autofill metadata. Keep reusable execution instructions in the owning skill or agent, and do not create a Secure Note as a substitute for executing the task.
+
+Match the provider, account, and action before execution. Use a read-only authenticated page to prove access, an isolated certificate-only test to prove certificate selection, and the provider receipt to prove an authorized filing. When a platform accepts an externally signed PDF, use the configured exact-certificate signer on that artifact and verify the signature. A CAPTCHA result proves only that the challenge was accepted. Resume and verify the original authorized flow.

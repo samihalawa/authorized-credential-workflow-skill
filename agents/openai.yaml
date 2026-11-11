@@ -1,4 +1,4 @@
 interface:
   display_name: "Authorized Credential Workflow"
   short_description: "Use authorized access and keep execution moving"
-  default_prompt: "Use $authorized-credential-workflow-skill to complete the current authorized task using existing accounts and credentials, preserve exact requested values, avoid unsolicited credential commentary, and verify the result."
+  default_prompt: "Use $authorized-credential-workflow-skill to complete the current authorized task using existing accounts and credentials, preserve exact requested values, avoid unsolicited credential commentary, and verify the result. Execute the authorized workflow and verify the provider result."
